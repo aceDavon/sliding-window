@@ -28,4 +28,4 @@ const SlideWindow = (arr, n) => {
   return maxsum;
 };
 
-console.log(SlideWindow([1, 2, 3, 5, 8], 3));
+console.log(SlideWindow([23, 3, 8, 1, 5, 2, 12], 3));
